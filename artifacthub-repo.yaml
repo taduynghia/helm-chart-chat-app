@@ -10,6 +10,7 @@
 # NOT apply to ownership claim operations, which are processed immediately.
 #
 repositoryID: The ID of the Artifact Hub repository where the packages will be published to (optional, but it enables verified publisher)
+repositoryID: 54dd9623-6dd8-4c51-ae79-7ab03a691554
 owners: # (optional, used to claim repository ownership)
   - name: taduynghia
     email: nghiadkc09@gmail.com
